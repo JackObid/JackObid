@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackObid
 - 👀 I’m interested in CyberSecurity and cloud services
-- 🌱 I’m currently learning cloud technologies 
+- 🌱 I’m currently learning more about cloud technologies 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
