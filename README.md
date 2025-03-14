@@ -1,61 +1,80 @@
-# Jackson Amadi
+# Welcome to My GitHub Profile
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jacksonamadi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jackobid/)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F68002?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1234567/jackson-amadi/)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/jackobid/)
+<p align="center">
+  <img src="https://github.com/JackObid/JackObid/blob/main/profile.png" width="800" alt="Profile">
+</p>
 
----
+## Introduction
 
-## Hi there! 👋
+Hi there! Welcome to my GitHub profile README. I'm Jackson Amadi, a learner with a passion for cloud-native technologies, DevOps, and problem-solving. I enjoy exploring different aspects of the tech industry and constantly improving my skills. I am a highly active user on GitHub, engaging in various projects related to terraform, AWS, Google Cloud Platform, and content management systems. My GitHub profile serves as a platform to showcase my expertise, contribute to open-source projects, and connect with other like-minded individuals in the tech community.
 
-I'm Jackson Amadi, a passionate learner and problem solver in the field of cloud-native technologies and DevOps. My journey in software development began with a deep interest in understanding the intricacies of cloud infrastructure and its ability to power modern applications. Over time, I have expanded my skillset to Python, Go, JavaScript, Rust, Java, and more, enabling me to work on diverse projects and solve various challenges.
+## Coding Habits and Skills
 
-When it comes to coding, I enjoy exploring different programming languages, experimenting with new technologies, and pushing the boundaries of what's possible. Recently, I have been fascinated by Infrastructure as Code (IaC) and its potential to streamline development, deployment, and scalability. As a result, I have delved into tools such as Terraform to build robust and scalable architectures, with a particular focus on leveraging AWS services.
+Throughout my journey as a developer, I have gained experience in a diverse range of programming languages and tools. Here are some of the languages I frequently use:
 
----
+- HCL
+- Go
+- HTML
+- JavaScript
+- Python
+- Shell
+- Smarty
+- Dockerfile
+- Java
+- Rust
+
+These languages have allowed me to tackle various projects and enhance my problem-solving skills. I am comfortable working with different frameworks and libraries based on the project's requirements. 
+
+## Project Highlights
+
+While exploring different areas in the tech industry, I have created numerous projects that demonstrate my skills and expertise. Here are some of the notable projects from my GitHub repositories:
+
+- #### [Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)
+
+  ![Watermarking Architecture](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture/raw/main/diagram.png)
+
+  This repository showcases my ability to use Terraform to build an S3 Object Lambda Watermarking Architecture. Leveraging the power of cloud-native technologies, this project provides a scalable and efficient solution for adding watermarks to images on the fly. It demonstrates my expertise in utilizing infrastructure-as-code and automating AWS resources.
+
+- #### [blank-app](https://github.com/JackObid/blank-app)
+
+  ![Blank App](https://github.com/JackObid/blank-app/raw/main/screenshot.png)
+
+  blank-app represents a blank application template that provides a solid foundation for starting new projects. It incorporates best practices and includes essential features such as a well-organized directory structure, scalable architecture, and CI/CD pipelines. This project reflects my focus on building reusable and maintainable software solutions.
+
+- #### [terraform-schema](https://github.com/JackObid/terraform-schema)
+
+  ![Terraform Schema](https://github.com/JackObid/terraform-schema/raw/main/logo.png)
+
+  This repository hosts a library that aids in decoding Terraform config schema. By providing helpful functions and utilities, it simplifies the process of working with Terraform schemas, making it easier to parse and analyze them programmatically. Through this project, I have showcased my ability to create tools that streamline development workflows.
+
+- #### [eCommerce-System-Platform-on-Google-Cloud-Platform](https://github.com/JackObid/eCommerce-System-Platform-on-Google-Cloud-Platform)
+
+  ![eCommerce System](https://github.com/JackObid/eCommerce-System-Platform-on-Google-Cloud-Platform/raw/main/architecture.png)
+
+  This project focuses on building a scalable and robust eCommerce system platform on the Google Cloud Platform. It employs various GCP features and services to create a secure and high-performance system capable of handling heavy user traffic and supporting seamless transactions. It showcases my skills in designing enterprise-scale solutions.
+
+These projects are just a glimpse of my work. Feel free to explore my GitHub repositories to discover more projects and see the wide range of technologies, frameworks, and languages I'm familiar with.
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JackObid)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackObid)
+As an active member of the GitHub community, it's essential to analyze and present my GitHub statistics, giving insights into my contributions and progress.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JackObid)](https://git.io/streak-stats)
-[![Trophy](https://github-profile-trophy.vercel.app/api?username=JackObid)](https://github.com/JackObid)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JackObid" alt="Github Stats">
+</p>
 
----
+- **Public Repositories:** 38
+- **Followers:** 283
+- **Followed:** 491
 
-## Projects
+By creating a noticeable number of public repositories and receiving recognition through stars and followers, I am able to contribute effectively to the open-source community, connect with other developers, and collaborate on exciting projects.
 
-While exploring various aspects of software development, I have had the opportunity to work on exciting projects that reflect my interests and skills. Here are a few highlights:
+## Contact Me
 
-### Using Terraform to Build an S3 Object Lambda Watermarking Architecture
-[![GitHub stars](https://img.shields.io/github/stars/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)
+I'm always open to collaborating on innovative projects and connecting with individuals who share similar interests. Feel free to reach out to me through the following channels:
 
-This project demonstrates my expertise in infrastructure as code and AWS services. By leveraging Terraform, I have built a flexible and scalable architecture for watermarking S3 objects using AWS' Object Lambda. 
+- Email: jackobid@example.com
 
-### Contributing to `awslabs/aws-terraform-dev-container`
-[![GitHub contributions](https://img.shields.io/github/contributors-anon/JackObid/awslabs/aws-terraform-dev-container)](https://github.com/awslabs/aws-terraform-dev-container/)
+## Conclusion
 
-I have made significant contributions to this repository, aimed at providing a standard development environment for Terraform projects.
-
-### Contributions to `openai/tiktoken`
-[![GitHub contributions](https://img.shields.io/github/contributors-anon/JackObid/openai/tiktoken)](https://github.com/openai/tiktoken/)
-
-I have collaborated on this project, which focuses on providing a beautiful and interactive command-line interface for OpenAI's TikToken tool.
-
----
-
-## More About Me
-
-Over time, my projects and contributions on GitHub have caught the attention of fellow developers, resulting in a growing network of followers. This recognition is a testament to my commitment to the craft and the potential impact of my work in the software development community overall.
-
-Although I have covered various realms in cloud-native technologies and DevOps, I believe there is always something new to learn and explore in this fast-paced field. I am open to collaboration, engaging in exciting projects, and continuously expanding my knowledge to solve the complex problems of tomorrow.
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jacksonamadi/) or [Twitter](https://twitter.com/jackobid) to connect, collaborate, or discuss fascinating ideas!
-
-Looking forward to creating and innovating together.
-
----
-
-**Note**: For a more comprehensive view of my GitHub journey and to explore more exciting projects, please visit my [GitHub profile](https://github.com/JackObid).
+Thank you for taking the time to visit my GitHub profile and explore my projects. Throughout my coding journey, I strive to learn, grow, and contribute to the tech industry. By leveraging cloud-native technologies, DevOps practices, and problem-solving skills, I continuously endeavor to build efficient solutions and improve existing systems. If you have any exciting opportunities or would like to connect, reach out to me. Let's create something amazing together!
