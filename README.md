@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI projects**
 
-- 🌱 I’m currently learning more on ** Web Security, Cloud and AI resources**
+- 🌱 I’m currently learning more on **Web Security, Cloud and AI resources**
 
 - 💬 Ask me about **Python & Java**
 
