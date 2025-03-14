@@ -1,24 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jackson Amadi</h1>
-<h3 align="center">A passionate about DevOps, AI, Cybersecurity, and Cloud services</h3>
+# Jackson Amadi
 
-- 🔭 I’m currently working on **AI projects**
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jacksonamadi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jackobid/)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F68002?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1234567/jackson-amadi/)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/jackobid/)
 
-- 🌱 I’m currently learning more on **Web Security, Cloud and AI resources**
+---
 
-- 💬 Ask me about **Python & Java**
+## Hi there! 👋
 
-- 📫 How to reach me **jacqueobi@gmail.com**
+I'm Jackson Amadi, a passionate learner and problem solver in the field of cloud-native technologies and DevOps. My journey in software development began with a deep interest in understanding the intricacies of cloud infrastructure and its ability to power modern applications. Over time, I have expanded my skillset to Python, Go, JavaScript, Rust, Java, and more, enabling me to work on diverse projects and solve various challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jackobid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jackobid" height="30" width="40" /></a>
-<a href="https://twitter.com/jackobid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackobid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jackson-amadi-31056921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackson-amadi-31056921" height="30" width="40" /></a>
-</p>
+When it comes to coding, I enjoy exploring different programming languages, experimenting with new technologies, and pushing the boundaries of what's possible. Recently, I have been fascinated by Infrastructure as Code (IaC) and its potential to streamline development, deployment, and scalability. As a result, I have delved into tools such as Terraform to build robust and scalable architectures, with a particular focus on leveraging AWS services.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackobid&show_icons=true&locale=en&layout=compact" alt="jackobid" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackobid&show_icons=true&locale=en" alt="jackobid" /></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JackObid)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackObid)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JackObid)](https://git.io/streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/api?username=JackObid)](https://github.com/JackObid)
+
+---
+
+## Projects
+
+While exploring various aspects of software development, I have had the opportunity to work on exciting projects that reflect my interests and skills. Here are a few highlights:
+
+### Using Terraform to Build an S3 Object Lambda Watermarking Architecture
+[![GitHub stars](https://img.shields.io/github/stars/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)
+
+This project demonstrates my expertise in infrastructure as code and AWS services. By leveraging Terraform, I have built a flexible and scalable architecture for watermarking S3 objects using AWS' Object Lambda. 
+
+### Contributing to `awslabs/aws-terraform-dev-container`
+[![GitHub contributions](https://img.shields.io/github/contributors-anon/JackObid/awslabs/aws-terraform-dev-container)](https://github.com/awslabs/aws-terraform-dev-container/)
+
+I have made significant contributions to this repository, aimed at providing a standard development environment for Terraform projects.
+
+### Contributions to `openai/tiktoken`
+[![GitHub contributions](https://img.shields.io/github/contributors-anon/JackObid/openai/tiktoken)](https://github.com/openai/tiktoken/)
+
+I have collaborated on this project, which focuses on providing a beautiful and interactive command-line interface for OpenAI's TikToken tool.
+
+---
+
+## More About Me
+
+Over time, my projects and contributions on GitHub have caught the attention of fellow developers, resulting in a growing network of followers. This recognition is a testament to my commitment to the craft and the potential impact of my work in the software development community overall.
+
+Although I have covered various realms in cloud-native technologies and DevOps, I believe there is always something new to learn and explore in this fast-paced field. I am open to collaboration, engaging in exciting projects, and continuously expanding my knowledge to solve the complex problems of tomorrow.
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jacksonamadi/) or [Twitter](https://twitter.com/jackobid) to connect, collaborate, or discuss fascinating ideas!
+
+Looking forward to creating and innovating together.
+
+---
+
+**Note**: For a more comprehensive view of my GitHub journey and to explore more exciting projects, please visit my [GitHub profile](https://github.com/JackObid).
