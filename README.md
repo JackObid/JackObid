@@ -1,80 +1,114 @@
-# Welcome to My GitHub Profile
+# Hi, I'm Jackson Amadi 👋
 
-<p align="center">
-  <img src="https://github.com/JackObid/JackObid/blob/main/profile.png" width="800" alt="Profile">
+<h3 align="center">DevOps | Cybersecurity | Cloud Services | AI Enthusiast</h3>
+
+Welcome to my GitHub profile! I'm a passionate technologist with a strong focus on **DevOps**, **Cybersecurity**, and **Cloud-native technologies**. I thrive on solving complex problems, building scalable solutions, and continuously learning new skills. Here, you'll find a collection of my projects, contributions, and insights into my journey as a developer.
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently Working On:** AI-driven projects and cloud infrastructure automation.
+- 🌱 **Currently Learning:** Advanced DevOps practices, Web Security, and AI/ML integration.
+- 💬 **Ask Me About:** Python, Java, Cloud Services (AWS, GCP, Azure), and DevOps tools.
+- 📫 **How to Reach Me:** [jacqueobi@gmail.com](mailto:jacqueobi@gmail.com)
+
+---
+
+## 🌐 Connect With Me
+
+Let's collaborate and share ideas! You can find me on:
+
+<p align="left">
+  <a href="https://dev.to/jackobid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/jackobid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jackson-amadi-31056921" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-## Introduction
+---
 
-Hi there! Welcome to my GitHub profile README. I'm Jackson Amadi, a learner with a passion for cloud-native technologies, DevOps, and problem-solving. I enjoy exploring different aspects of the tech industry and constantly improving my skills. I am a highly active user on GitHub, engaging in various projects related to terraform, AWS, Google Cloud Platform, and content management systems. My GitHub profile serves as a platform to showcase my expertise, contribute to open-source projects, and connect with other like-minded individuals in the tech community.
+## 🛠️ Languages & Tools
 
-## Coding Habits and Skills
+I work with a wide range of technologies to build robust and scalable solutions. Here are some of the tools and languages I frequently use:
 
-Throughout my journey as a developer, I have gained experience in a diverse range of programming languages and tools. Here are some of the languages I frequently use:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+</p>
 
-- HCL
-- Go
-- HTML
-- JavaScript
-- Python
-- Shell
-- Smarty
-- Dockerfile
-- Java
-- Rust
+---
 
-These languages have allowed me to tackle various projects and enhance my problem-solving skills. I am comfortable working with different frameworks and libraries based on the project's requirements. 
+## 📂 Project Highlights
 
-## Project Highlights
+Here are some of my notable projects that showcase my skills and expertise:
 
-While exploring different areas in the tech industry, I have created numerous projects that demonstrate my skills and expertise. Here are some of the notable projects from my GitHub repositories:
+### 1. [Terraform S3 Object Lambda Watermarking Architecture](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)
+A scalable solution for adding watermarks to images on the fly using Terraform and AWS S3 Object Lambda.
 
-- #### [Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture)
+### 2. [eCommerce System on Google Cloud Platform](https://github.com/JackObid/eCommerce-System-Platform-on-Google-Cloud-Platform)
+A robust and scalable eCommerce platform built on GCP, leveraging cloud-native services for high performance and security.
 
-  ![Watermarking Architecture](https://github.com/JackObid/Using-Terraform-to-Build-an-S3-Object-Lambda-Watermarking-Architecture/raw/main/diagram.png)
+### 3. [Terraform Schema Decoder](https://github.com/JackObid/terraform-schema)
+A library to simplify decoding and analyzing Terraform configuration schemas programmatically.
 
-  This repository showcases my ability to use Terraform to build an S3 Object Lambda Watermarking Architecture. Leveraging the power of cloud-native technologies, this project provides a scalable and efficient solution for adding watermarks to images on the fly. It demonstrates my expertise in utilizing infrastructure-as-code and automating AWS resources.
+### 4. [Blank App Template](https://github.com/JackObid/blank-app)
+A reusable application template with a well-organized structure, scalable architecture, and CI/CD pipelines.
 
-- #### [blank-app](https://github.com/JackObid/blank-app)
+---
 
-  ![Blank App](https://github.com/JackObid/blank-app/raw/main/screenshot.png)
+## 📊 GitHub Stats
 
-  blank-app represents a blank application template that provides a solid foundation for starting new projects. It incorporates best practices and includes essential features such as a well-organized directory structure, scalable architecture, and CI/CD pipelines. This project reflects my focus on building reusable and maintainable software solutions.
-
-- #### [terraform-schema](https://github.com/JackObid/terraform-schema)
-
-  ![Terraform Schema](https://github.com/JackObid/terraform-schema/raw/main/logo.png)
-
-  This repository hosts a library that aids in decoding Terraform config schema. By providing helpful functions and utilities, it simplifies the process of working with Terraform schemas, making it easier to parse and analyze them programmatically. Through this project, I have showcased my ability to create tools that streamline development workflows.
-
-- #### [eCommerce-System-Platform-on-Google-Cloud-Platform](https://github.com/JackObid/eCommerce-System-Platform-on-Google-Cloud-Platform)
-
-  ![eCommerce System](https://github.com/JackObid/eCommerce-System-Platform-on-Google-Cloud-Platform/raw/main/architecture.png)
-
-  This project focuses on building a scalable and robust eCommerce system platform on the Google Cloud Platform. It employs various GCP features and services to create a secure and high-performance system capable of handling heavy user traffic and supporting seamless transactions. It showcases my skills in designing enterprise-scale solutions.
-
-These projects are just a glimpse of my work. Feel free to explore my GitHub repositories to discover more projects and see the wide range of technologies, frameworks, and languages I'm familiar with.
-
-## GitHub Stats
-
-As an active member of the GitHub community, it's essential to analyze and present my GitHub statistics, giving insights into my contributions and progress.
+Here's a snapshot of my GitHub activity and contributions:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackObid" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JackObid&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackObid&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 - **Public Repositories:** 38
 - **Followers:** 283
-- **Followed:** 491
+- **Following:** 491
 
-By creating a noticeable number of public repositories and receiving recognition through stars and followers, I am able to contribute effectively to the open-source community, connect with other developers, and collaborate on exciting projects.
+---
 
-## Contact Me
+## 📬 Let's Collaborate!
 
-I'm always open to collaborating on innovative projects and connecting with individuals who share similar interests. Feel free to reach out to me through the following channels:
+I'm always open to new opportunities, collaborations, and discussions. Whether you have a project idea, a question, or just want to connect, feel free to reach out:
 
-- Email: jackobid@example.com
+- **Email:** [jacqueobi@gmail.com](mailto:jacqueobi@gmail.com)
+- **LinkedIn:** [Jackson Amadi](https://linkedin.com/in/jackson-amadi-31056921)
 
-## Conclusion
+---
 
-Thank you for taking the time to visit my GitHub profile and explore my projects. Throughout my coding journey, I strive to learn, grow, and contribute to the tech industry. By leveraging cloud-native technologies, DevOps practices, and problem-solving skills, I continuously endeavor to build efficient solutions and improve existing systems. If you have any exciting opportunities or would like to connect, reach out to me. Let's create something amazing together!
+Thank you for visiting my profile! Let's build something amazing together. 🚀
