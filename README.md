@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson Amadi</h1>
-<h3 align="center">A passionate about DevOps, CyberSecurity, and Cloud services</h3>
+<h3 align="center">A passionate about DevOps, AI, Cybersecurity, and Cloud services</h3>
 
 - 🔭 I’m currently working on **AI projects**
 
